@@ -1,0 +1,6 @@
+button, label{
+  font-size: 1.2rem;
+  box-shadow: 3px 2px 4px grey;
+  border: 1px solid gray;
+  padding: 5px 10px;
+}

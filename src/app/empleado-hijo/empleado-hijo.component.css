@@ -1,0 +1,9 @@
+* {
+  padding: 5px 10px;
+}
+.row {
+  border: 1px solid gray;
+  background-color: rgb(245, 237, 228);
+  font-size: 1.3rem;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
